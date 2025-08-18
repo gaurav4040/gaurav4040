@@ -34,10 +34,7 @@ I'm **Gourav Jangra**, a passionate **FullStack Software/Web Developer** who lov
 
 ## My Contribution Graph.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav4040/gaurav4040/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/gaurav4040/gaurav4040/output/pacman-contribution-graph.svg">
-</picture>
+![Snake Animation](https://github.com/<your-username>/<your-repo>/blob/output/github-snake.svg)
 
 
 
