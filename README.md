@@ -7,7 +7,9 @@
 ![FullStack Developer](https://img.shields.io/badge/FullStack%20Developer-FF5733?style=for-the-badge&logo=dev&logoColor=white)
 ![Problem Solver](https://img.shields.io/badge/Problem%20Solver-33C1FF?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Tech Explorer](https://img.shields.io/badge/Tech%20Explorer-28A745?style=for-the-badge&logo=read-the-docs&logoColor=white)
-
+I'm a passionate **FullStack Developer** 🚀  
+I love **solving problems** 🧩 and **exploring new technologies** 🌟  
+Always **eager to learn** 📚 and thrive on **challenges** ⚡
 <br/>
 <br/>
 <br/>
