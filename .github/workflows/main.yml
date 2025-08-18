@@ -26,7 +26,7 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
-        working-directory: ./src/core
+        working-directory: ./src
 
       - name: Generate pacman-contribution-graph.svg
         run: |
@@ -43,7 +43,7 @@ jobs:
             --username "${{ github.repository_owner }}" \
             --gameTheme github-dark \
             --output dist/pacman-contribution-graph-dark.svg
-        working-directory: ./src/core
+        working-directory: ./src
 
       - name: Push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
