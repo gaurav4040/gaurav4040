@@ -1,4 +1,5 @@
-## Hi there! 
+## Hi there!
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -32,11 +33,11 @@ I'm **Gourav Jangra**, a passionate **FullStack Software/Web Developer** who lov
 <br/>
 <br/>
 ## About Me
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 I'm a developer with an interest in both front-end and back-end technologies. Based in India, I enjoy crafting applications that enhance user experiences. I'm currently focusing on expanding my knowledge in full-stack development.
 
 ## Skills & Technologies
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 [![My Skills](https://skillicons.dev/icons?i=cpp,nextjs,ts,mysql,vercel,netlify,npm,aws,tailwind,postman,figma&perline=8)](https://skillicons.dev)
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -62,12 +63,13 @@ I'm a developer with an interest in both front-end and back-end technologies. Ba
 
 
 ## GitHub Stats
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 📊 **Public Repositories**: 9  |  **Followers**: 1  |  **Following**: 0  
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurav4040&show_icons=true&theme=radical)  
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav4040&layout=compact&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav4040&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <a href="https://linkedin.com/in/Gauravjangra-" target="_blank" rel="noopener noreferrer"><Icon /><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a> 
 <a href="https://instagram.com/__gauravjangra" target="_blank" rel="noopener noreferrer"><Icon /> <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
