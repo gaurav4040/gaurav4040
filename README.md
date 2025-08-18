@@ -2,7 +2,18 @@
 ## Hi There!  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">&nbsp; <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/> <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
 
-I'm **Gourav Jangra**, a passionate **FullStack Software/Web Developer** who loves exploring new technologies and solving problems through code. Always eager to learn, I thrive on challenges and aim to create impactful projects.
+<h2 align="center">
+  I'm <span style="color:#FF5733;">Gourav Jangra</span>, a passionate 
+  <span style="color:#33C1FF;">FullStack Software/Web Developer</span> 💻
+</h2>
+
+<p align="center">
+  <span style="color:#28A745;">who loves exploring new technologies</span> 🚀 <br/>
+  <span style="color:#FFD700;">and solving problems through code</span> 🧩 <br/>
+  <span style="color:#FF69B4;">Always eager to learn</span> 📚, 
+  <span style="color:#8A2BE2;">I thrive on challenges</span> ⚡ and 
+  <span style="color:#FF4500;">aim to create impactful projects</span> 🌟
+</p>
 <br/>
 <br/>
 <br/>
@@ -34,7 +45,8 @@ I'm **Gourav Jangra**, a passionate **FullStack Software/Web Developer** who lov
 
 ## My Contribution Graph.
 
-![snake gif](https://github.com/gaurav4040/gaurav4040/blob/gh-pages/github-snake-dark.svg)
+<!--  -->![snake gif](https://github.com/gaurav4040/gaurav4040/blob/gh-pages/github-snake-dark.svg)
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
