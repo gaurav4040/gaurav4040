@@ -1,10 +1,10 @@
 name: generate pacman game
 
 on:
-  schedule: # run automatically every 24 hours
-    - cron: "0 */24 * * *"
-  workflow_dispatch: # allows to manually run the job at any time
-  push: # run on every push on the main branch
+  schedule:
+    - cron: "0 */24 * * *"  # Run daily
+  workflow_dispatch:
+  push:
     branches:
       - main
 
@@ -26,26 +26,29 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
-        working-directory: ./src
+        working-directory: ./src/core
 
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate Pac-Man Contribution SVGs
         run: |
           mkdir -p dist
-          # light mode
+          # Light theme
           node ./cli/index.js \
             --platform github \
             --username "${{ github.repository_owner }}" \
             --gameTheme github \
             --output dist/pacman-contribution-graph.svg
-          # dark mode
+          # Dark theme
           node ./cli/index.js \
             --platform github \
             --username "${{ github.repository_owner }}" \
             --gameTheme github-dark \
             --output dist/pacman-contribution-graph-dark.svg
-        working-directory: ./src
+        working-directory: ./src/core
 
-      - name: Push pacman-contribution-graph.svg to the output branch
+      - name: List generated files
+        run: ls -R src/core/dist
+
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
