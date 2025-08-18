@@ -7,10 +7,8 @@ I'm **Gourav Jangra**, a passionate **FullStack Software/Web Developer** who lov
 <br/>
 <br/>
 <br/>
-## About Me
-I'm a developer with an interest in both front-end and back-end technologies. Based in India, I enjoy crafting applications that enhance user experiences. I'm currently focusing on expanding my knowledge in full-stack development.
 
-## Skills & Technologies <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
+## Skills & Technologies <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  width="40">
 [![My Skills](https://skillicons.dev/icons?i=cpp,nextjs,ts,mysql,vercel,netlify,npm,aws,tailwind,postman,figma&perline=8)](https://skillicons.dev)
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -33,6 +31,7 @@ I'm a developer with an interest in both front-end and back-end technologies. Ba
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 <br><br>    
+
 
 
 ## GitHub Stats
