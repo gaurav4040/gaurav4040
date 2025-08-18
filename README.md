@@ -34,8 +34,8 @@ I'm **Gourav Jangra**, a passionate **FullStack Software/Web Developer** who lov
 
 ## My Contribution Graph.
 
-![GitHub Snake Light](https://gaurav4040.github.io/<repo>/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://gaurav4040.github.io/<repo>/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://gaurav4040.github.io/gaurav4040/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://gaurav4040.github.io/gaurav4040/github-snake-dark.svg#gh-dark-mode-only)
 
 
 
