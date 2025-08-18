@@ -32,7 +32,7 @@ I'm **Gourav Jangra**, a passionate **FullStack Software/Web Developer** who lov
 </div>
 <br><br>    
 
-## My Contribution Graph
+## My Contribution Graph.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav4040/gaurav4040/output/pacman-contribution-graph-dark.svg">
