@@ -1,8 +1,6 @@
 ## Hi there! 👋
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-
-
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
+<br><br>
 
 I'm **Gaurav Jangra**, a passionate developer who loves exploring new technologies and solving problems through code. Always eager to learn, I thrive on challenges and aim to create impactful projects.
 
