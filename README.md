@@ -40,8 +40,6 @@ I'm **Gourav Jangra**, a passionate **FullStack Software/Web Developer** who lov
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 ## GitHub Stats
 📊 **Public Repositories**: 9  |  **Followers**: 1  |  **Following**: 0  
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurav4040&show_icons=true&theme=radical)  
