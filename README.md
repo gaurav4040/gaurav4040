@@ -39,7 +39,6 @@ I'm **Gourav Jangra**, a passionate **FullStack Software/Web Developer** who lov
 
 
 
-
 ## GitHub Stats
 📊 **Public Repositories**: 9  |  **Followers**: 1  |  **Following**: 0  
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurav4040&show_icons=true&theme=radical)  
