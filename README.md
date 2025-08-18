@@ -1,7 +1,7 @@
 
-
+ ## Hi there!
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
 <div align="">
-    ## Hi there! 
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
