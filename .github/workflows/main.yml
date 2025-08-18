@@ -13,6 +13,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -20,26 +21,30 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          # Use Node 18 (most stable for Actions, works with GH APIs)
+          node-version: 18
 
-      - name: Install
-        run: npm ci
+      - name: Install dependencies
+        run: npm install
 
       - name: Build SVGs
         run: |
           mkdir -p dist
-          # light
+          # light theme
           node ./cli/index.js \
             --platform github \
             --username "${{ github.repository_owner }}" \
             --gameTheme github \
             --output dist/pacman-contribution-graph.svg
-          # dark
+          # dark theme
           node ./cli/index.js \
             --platform github \
             --username "${{ github.repository_owner }}" \
             --gameTheme github-dark \
             --output dist/pacman-contribution-graph-dark.svg
+
+      - name: List dist folder (debug)
+        run: ls -R dist
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3
