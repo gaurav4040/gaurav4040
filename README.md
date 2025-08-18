@@ -34,7 +34,7 @@ I'm **Gourav Jangra**, a passionate **FullStack Software/Web Developer** who lov
 
 ## My Contribution Graph.
 
-![Snake Animation](https://github.com/gaurav4040/gaurav4040/blob/output/github-snake.svg)
+![snake gif](https://github.com/gaurav4040/gaurav4040/blob/output/github-contribution-grid-snake.gif)
 
 
 
