@@ -4,7 +4,8 @@
 I'm **Gaurav Jangra**, a passionate developer who loves exploring new technologies and solving problems through code. Always eager to learn, I thrive on challenges and aim to create impactful projects.
 <br/>
 <br/>
-
+<br/>
+<br/>
 ## About Me
 
 I'm a developer with an interest in both front-end and back-end technologies. Based in India, I enjoy crafting applications that enhance user experiences. I'm currently focusing on expanding my knowledge in full-stack development.
