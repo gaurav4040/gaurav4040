@@ -24,7 +24,7 @@ jobs:
         uses: gaurav4040/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          mode: full # <-- hypothetical option (may need patch in repo)
+          filled: "true" # <-- hypothetical option (may need patch in repo)
         continue-on-error: true
 
       - name: Move full version
@@ -35,7 +35,7 @@ jobs:
         uses: gaurav4040/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-
+          filled: "false" 
       - name: Move actual version
         run: mv dist/pacman-contribution-graph.svg dist/pacman-actual.svg
 
