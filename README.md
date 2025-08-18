@@ -3,16 +3,15 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
 
 <h2 align="center">
-  I'm <span style="color:#FF5733;">Gourav Jangra</span>, a passionate 
-  <span style="color:#33C1FF;">FullStack Software/Web Developer</span> 💻
+  I'm <span style="color:#FF5733">Gourav Jangra</span>, a passionate 
+  <span style="color:#33C1FF">FullStack Software/Web Developer</span> 💻
 </h2>
-
 <p align="center">
-  <span style="color:#28A745;">who loves exploring new technologies</span> 🚀 <br/>
-  <span style="color:#FFD700;">and solving problems through code</span> 🧩 <br/>
-  <span style="color:#FF69B4;">Always eager to learn</span> 📚, 
-  <span style="color:#8A2BE2;">I thrive on challenges</span> ⚡ and 
-  <span style="color:#FF4500;">aim to create impactful projects</span> 🌟
+  <span style="color:#28A745">who loves exploring new technologies</span> 🚀 <br/>
+  <span style="color:#FFD700">and solving problems through code</span> 🧩 <br/>
+  <span style="color:#FF69B4">Always eager to learn</span> 📚, 
+  <span style="color:#8A2BE2">I thrive on challenges</span> ⚡ and 
+  <span style="color:#FF4500">aim to create impactful projects</span> 🌟
 </p>
 <br/>
 <br/>
