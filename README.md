@@ -3,7 +3,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
 
 <h2 align="center">
-  I'm <span style="color:#FF5733">Gourav Jangra</span>, a passionate 
+  I'm <span style="color:blue-300">Gourav Jangra</span>, a passionate 
   <span style="color:#33C1FF">FullStack Software/Web Developer</span> 💻
 </h2>
 <p align="center">
