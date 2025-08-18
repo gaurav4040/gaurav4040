@@ -21,7 +21,7 @@ jobs:
 
       # Step 1: Generate fully-filled Pac-Man grid
       - name: Generate full pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+        uses: gaurav4040/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           mode: full # <-- hypothetical option (may need patch in repo)
