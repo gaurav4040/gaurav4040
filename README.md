@@ -3,6 +3,11 @@
 <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I'm%20Gourav%20Jangra&width=1000&height=100" /><img align="right" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="230">
   <img align="right" src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif" width="200">
 
+# Hi, I'm Gourav Jangra 👋
+
+![Profile views](https://komarev.com/ghpvc/?username=gaurav4040&label=Profile%20views&color=0e75b6&style=flat)
+
+
 🎓 I'm a **CSE undergraduate student** at **IIIT Agartala**  
 💻 I enjoy working on both **Frontend** and **Backend Development**  
 🚀 Always eager to learn, build, and explore new technologies  
