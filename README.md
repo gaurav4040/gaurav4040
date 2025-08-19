@@ -7,8 +7,7 @@
 💻 I enjoy working on both **Frontend** and **Backend Development**  
 🚀 Always eager to learn, build, and explore new technologies  
 
-📫 Reach me at:
-
+**📫 Reach me at:**
   <a href="mailto:jangragaurav593@gmail.com">
     <img src="assets/images/mail2.gif" alt="Email Me" width="120"  />
   </a><a href="https://linkedin.com/in/Gauravjangra-" target="_blank" rel="noopener noreferrer"><Icon /><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a> 
