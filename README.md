@@ -3,11 +3,21 @@
 <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I'm%20Gourav%20Jangra&width=1000&height=100" /><img align="right" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
   <img align="right" src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif" width="290">
 ![](https://img.shields.io/badge/a%20passionateFullStack%20Software/Web%20Developer%20\nwho%20loves%20exploring%20new%20technologies%20and%20solving%20problems%20through%20code.-%2333C1FF?style=for-the-badge&logo=code&logoColor=white)
+# Hi, I'm Gourav Jangra 👋
 
-<p>
-  
-  Always eager to learn, I thrive on challenges and aim to create impactful projects.
+🎓 I'm a **CSE undergraduate student** at **IIIT Agartala**  
+💻 I enjoy working on both **Frontend** and **Backend Development**  
+🚀 Always eager to learn, build, and explore new technologies  
+
+📫 Reach me at: **jangragaurav593@gmail.com**  
+🔗 Check out more on my GitHub: [github.com/gaurav4040](https://github.com/gaurav4040)
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/your-gif-url.gif" alt="Full Stack Developer" width="400"/>
 </p>
+
 
   
 <br/>
