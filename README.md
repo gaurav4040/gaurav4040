@@ -10,7 +10,7 @@
 📫 Reach me at:
 <p align="center">
   <a href="mailto:jangragaurav593@gmail.com">
-    <img src="assets/gmail-circle.gif" alt="Email Me" width="90" style="border-radius:50%;" />
+    <img src="assets/gmail1.gif" alt="Email Me" width="90" style="border-radius:50%;" />
   </a>
 </p>
 
