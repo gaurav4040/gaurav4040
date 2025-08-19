@@ -8,8 +8,12 @@
 🚀 Always eager to learn, build, and explore new technologies  
 
 📫 Reach me at:
-**jangragaurav593@gmail.com**  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<p align="center">
+  <a href="mailto:jangragaurav593@gmail.com">
+    <img src="assets/gmail-circle.gif" alt="Email Me" width="90" style="border-radius:50%;" />
+  </a>
+</p>
+
 <a href="https://linkedin.com/in/Gauravjangra-" target="_blank" rel="noopener noreferrer"><Icon /><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a> 
 <a href="https://instagram.com/__gauravjangra" target="_blank" rel="noopener noreferrer"><Icon /> <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
 <br/>
