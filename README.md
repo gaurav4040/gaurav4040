@@ -37,7 +37,7 @@
 
 ## My Contribution Graph.
 
-<!--[snake gif](https://github.com/gaurav4040/gaurav4040/blob/gh-pages/github-snake-dark.svg)  -->!
+<!--![snake gif](https://github.com/gaurav4040/gaurav4040/blob/gh-pages/github-snake-dark.svg)  -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
