@@ -8,6 +8,7 @@
   who loves exploring new technologies and solving problems through code. 
   Always eager to learn, I thrive on challenges and aim to create impactful projects.
 </p>
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Gourav%20Jangra&width=800&height=200" />
 
   
 <br/>
